@@ -11,3 +11,5 @@ carhud - David_Carneiro |
 guy293-voice - guy293
 
 AGAIN I JUST CONFIGURED THIS!
+
+Also I did edit the cooldown script and Fax-AOP script to remove the time from it, and also the cooldown to add a cleaner font and use a remaining text option like DOJRP's cooldown...
