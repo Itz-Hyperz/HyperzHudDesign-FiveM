@@ -20,7 +20,7 @@ If you want the fuel bar like DOJRP has on their vehicles, you can get it using 
 
 Simply add the [HUD] folder to your resources
 
-then in the server.cfg file, copy and paste the text below:
+then in the server.cfg file, copy and paste the text below (make sure to press enter between each ensure {script} line!):
 
 ensure fax-aop
 ensure cooldown
