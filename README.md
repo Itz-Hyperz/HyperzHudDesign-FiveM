@@ -3,11 +3,11 @@ This is a HUD design for FiveM, not made by me. I just configured it to look goo
 
 CREDITS:
 
-fax-aop - FAXES
-cooldown - Scott_UK
-nearestpostal - BlockBa5her
-streetLabel - lowheartrate
-carhud - David_Carneiro
+fax-aop - FAXES |
+cooldown - Scott_UK |
+nearestpostal - BlockBa5her |
+streetLabel - lowheartrate |
+carhud - David_Carneiro |
 guy293-voice - guy293
 
 AGAIN I JUST CONFIGURED THIS!
