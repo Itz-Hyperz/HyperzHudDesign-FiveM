@@ -14,6 +14,9 @@ AGAIN I JUST CONFIGURED THIS!
 
 Also I did edit the cooldown script and Fax-AOP script to remove the time from it, and also the cooldown to add a cleaner font and use a remaining text option like DOJRP's cooldown...
 
+If you want the fuel bar like DOJRP has on their vehicles, you can get it using either Legacy Fuel (https://forum.cfx.re/t/release-esx-non-esx-legacyfuel-system/148442), or frfuel (https://forum.cfx.re/t/release-frfuel-v1-7-0/5467)
+
+#Installation
 
 Simply add the [HUD] folder to your resources
 
