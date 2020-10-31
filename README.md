@@ -13,3 +13,15 @@ guy293-voice - guy293 - https://github.com/Guy293/guy293_voice |
 AGAIN I JUST CONFIGURED THIS!
 
 Also I did edit the cooldown script and Fax-AOP script to remove the time from it, and also the cooldown to add a cleaner font and use a remaining text option like DOJRP's cooldown...
+
+
+Simply add the [HUD] folder to your resources
+
+then in the server.cfg file, copy and paste the text below:
+
+ensure fax-aop
+ensure cooldown
+ensure nearestpostal
+ensure streetLabel
+ensure carhud
+ensure guy293-voice
