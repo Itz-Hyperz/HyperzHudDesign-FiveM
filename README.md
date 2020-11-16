@@ -22,9 +22,9 @@ Simply drag the [HUD] folder to your resources
 
 then in the server.cfg file, copy and paste the text below:
 
-ensure fax-aop
-ensure carhud
-ensure cooldown
-ensure guy293_voice
-ensure nearestpostal
-ensure streetLabel
+- ensure fax-aop
+- ensure carhud
+- ensure cooldown
+- ensure guy293_voice
+- ensure nearestpostal
+- ensure streetLabel
