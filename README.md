@@ -3,12 +3,12 @@ This is a HUD design for FiveM, not made by me. I just configured it to look goo
 
 CREDITS:
 
-fax-aop - FAXES - https://forum.cfx.re/t/release-area-of-patrol-set-aop-ft-draw-text-peacetime-more-aop-3-4/85532 |
-cooldown - Scott_UK - https://forum.cfx.re/t/release-priority-cooldown/72856 |
+fax-aop - FAXES - https://forum.cfx.re/t/release-area-of-patrol-set-aop-ft-draw-text-peacetime-more-aop-3-4/85532 | (Removed Time)
+cooldown - Scott_UK - https://forum.cfx.re/t/release-priority-cooldown/72856 | (Added time remaining for cooldown)
 nearestpostal - BlockBa5her - https://forum.cfx.re/t/release-nearest-postal-script/293511 |
 streetLabel - lowheartrate - https://forum.cfx.re/t/release-street-label/43864 |
 carhud - David_Carneiro - https://forum.cfx.re/t/release-carhud-and-helihud-modified-and-better-looking-v-1-9-new-update/97812 |
-guy293-voice - guy293 - https://github.com/Guy293/guy293_voice |
+guy293-voice - guy293 - https://github.com/Guy293/guy293_voice | (Adjusted to no longer interfear with vMenu)
 
 AGAIN I JUST CONFIGURED THIS!
 
