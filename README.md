@@ -3,7 +3,7 @@ This is a HUD design for FiveM, not made by me. I just configured it to look goo
 
 CREDITS:
 
-Area-of-Patrol - FAXES - https://forum.cfx.re/t/release-area-of-patrol-set-aop-ft-draw-text-peacetime-more-aop-3-4/85532 |
+fax-aop - FAXES - https://forum.cfx.re/t/release-area-of-patrol-set-aop-ft-draw-text-peacetime-more-aop-3-4/85532 |
 cooldown - Scott_UK - https://forum.cfx.re/t/release-priority-cooldown/72856 |
 nearestpostal - BlockBa5her - https://forum.cfx.re/t/release-nearest-postal-script/293511 |
 streetLabel - lowheartrate - https://forum.cfx.re/t/release-street-label/43864 |
@@ -22,7 +22,7 @@ Simply drag the [HUD] folder to your resources
 
 then in the server.cfg file, copy and paste the text below:
 
-ensure Area-of-Patrol
+ensure fax-aop
 ensure carhud
 ensure cooldown
 ensure guy293_voice
