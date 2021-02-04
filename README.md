@@ -10,7 +10,7 @@ Credits
 - nearestpostal - BlockBa5her - https://forum.cfx.re/t/release-nearest-postal-script/293511 |
 - streetLabel - lowheartrate - https://forum.cfx.re/t/release-street-label/43864 |
 - carhud - David_Carneiro - https://forum.cfx.re/t/release-carhud-and-helihud-modified-and-better-looking-v-1-9-new-update/97812 |
-- guy293-voice - guy293 - https://github.com/Guy293/guy293_voice | (Adjusted to no longer interfear with vMenu)
+- Posted-Speedlimit - BigYoda - https://github.com/Guy293/guy293_voice | (Adjusted to no longer interfear with vMenu)
 
 AGAIN I JUST CONFIGURED THIS!
 
@@ -27,7 +27,7 @@ then in the server.cfg file, copy and paste the text below:
 - ensure fax-aop
 - ensure carhud
 - ensure cooldown
-- ensure guy293_voice
+- ensure Posted-Speedlimit
 - ensure nearestpostal
 - ensure streetLabel
 ```
