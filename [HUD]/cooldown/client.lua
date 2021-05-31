@@ -29,7 +29,7 @@ Citizen.CreateThread(function()
 		elseif ispriority == false then
 			DrawText2("~w~Priority Status: ~r~Cooldown ~c~(".. cooldown .."m remaining)")
 		elseif ispriority == true then
-			DrawText2("~w~Priority Status: ~g~Priority In Progress")
+			DrawText2("~w~Priority Status: ~g~Priority In Progress ~c~("..GetPlayerName(source)..")")
 		end
 	end
 end)
